@@ -1,6 +1,5 @@
 package com.cg.PackageOne;
 
-import PackageOne.TestOne;
 
 public class TestOne {
 		
@@ -12,11 +11,6 @@ public class TestOne {
 		public static void main(String[] args) {
 			TestOne t1=new TestOne();
 			System.out.println(t1.id);
-			t1.display();
-		      
-
-		// TODO Auto-generated method stub
-
-	}
-
+			t1.display();	
+		}
 }
